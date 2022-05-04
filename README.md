@@ -1,2 +1,3 @@
-# feelbot
-Um simples bot de música no discord.
+# Feel
+
+- Um simples bot de música no discord.
